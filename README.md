@@ -42,17 +42,17 @@ Link: https://creative-upaay-dashboard-rust.vercel.app/
     * cd creative-upaay-dashboard
 
 2. Install Dependencies:
-    ## React Router for navigation
+    ### React Router for navigation
     * npm install react-router-dom
 
-    ## Redux for state management
+    ### Redux for state management
     * npm install redux react-redux
 
-    ## UI Library
+    ### UI Library
     * npm install -D tailwindcss postcss autoprefixer
     * npx tailwindcss init -p
 
-    ## Optional drag-and-drop
+    ### Optional drag-and-drop
     * npm install react-beautiful-dnd
 
     Steps to run locally (npm install, npm start).
