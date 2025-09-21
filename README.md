@@ -4,7 +4,7 @@ Creative Upaay Full Stack Development Assignment
 ## Objective
 The goal of this project is to build a fully functional task management dashboard based on a specific Figma design. The dashboard will allow users to manage tasks visually across three main stages: "To Do", "In Progress", and "Done".
 
-Figma Design Link: Creative Upaay Dashboard Design
+Figma Design Link: https://www.figma.com/design/2joKVlIEH43PfO9pFfsX51/DASHBOARD-DESIGN-TASK---CREATIVE-UPAAY?node-id=2-163&t=27FoMrZbmzVWf7Dm-0
 
 Users should be able to:
 
@@ -14,7 +14,7 @@ Users should be able to:
 
 ## Demo
 
-Link: 
+Link: https://creative-upaay-dashboard-rust.vercel.app/
 
 ## Tech Stack
 
