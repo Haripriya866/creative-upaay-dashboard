@@ -25,7 +25,7 @@ Link: https://creative-upaay-dashboard-rust.vercel.app/
 - **react-beautiful-dnd**:For drag-and-drop task movement.
 - **redux-persist**: Simplifies Local Storage integration with Redux.
 
-### Functionality
+## Functionality
 
 * Add Tasks: Click the plus icon next to “To Do” to add a new task with a title, description, and priority.
 
