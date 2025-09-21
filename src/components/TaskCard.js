@@ -52,16 +52,6 @@ export default function TaskCard({ task, index }) {
           <div className="flex justify-between mt-2 text-sm text-gray-500">
             <span>💬 {comments} comments</span>
             <span>📁 {files} files</span>
-            <div className="flex -space-x-2">
-              {profiles.map((src, i) => (
-                <img
-                  key={i}
-                  src={src}
-                  alt="profile"
-                  className="w-6 h-6 rounded-full border-2 border-white"
-                />
-              ))}
-            </div>
           </div>
         </div>
       )}
